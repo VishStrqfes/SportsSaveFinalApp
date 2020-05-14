@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "796907419612",
+    "firebase_url": "https://sportssavefinalapp.firebaseio.com",
+    "project_id": "sportssavefinalapp",
+    "storage_bucket": "sportssavefinalapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796907419612:android:f32dc31618ac95b27fc119",
+        "android_client_info": {
+          "package_name": "com.example.sportssavefinalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796907419612-9sg4aer4icu22qihiq4lqp816u2l3c6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sportssavefinalapp",
+            "certificate_hash": "8955fb99ddbf6be102ebae5cd2222a2a9f842090"
+          }
+        },
+        {
+          "client_id": "796907419612-hi538s49ot3kfiummb18mnde330irqnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNh7eNQHSMnApnTqIdngNZyzOV1S8Cl3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796907419612-hi538s49ot3kfiummb18mnde330irqnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

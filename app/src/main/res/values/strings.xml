@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SportsSaveFinalApp</string>
+    <string-array name="spinnerItems">
+        <item>Basketball</item>
+        <item>Football</item>
+        <item>Baseball</item>
+        <item>Soccer</item>
+        <item>Hockey</item>
+        <item>Tennis</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
